@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (E:\SMCProiect\Biblioteca\build\obj\Debug\x64\) contains files shared from another project (Biblioteca.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Author.cpp
+  Book.cpp
+  Logs.cpp
+  ServerMain.cpp
+  Server.cpp
+E:\SMCProiect\Biblioteca\Server\Server.cpp(314,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\SMCProiect\Biblioteca\Server\Server.cpp(320,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  User.cpp
+E:\SMCProiect\Biblioteca\Server\User.cpp(263,27): warning C4129: '.': unrecognized character escape sequence
+E:\SMCProiect\Biblioteca\Server\User.cpp(269,27): warning C4129: '.': unrecognized character escape sequence
+  Generating Code...
+E:\SMCProiect\Biblioteca\Server\Logs.cpp(28): warning C4715: 'Logs::getPriorityText': not all control paths return a value
+  sqlite3.c
+  Database.cpp
+E:\SMCProiect\Biblioteca\Server\Database.cpp(67,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SMCProiect\Biblioteca\Server\Database.cpp(52,11): warning C4101: 'db': unreferenced local variable
+E:\SMCProiect\Biblioteca\Server\Database.cpp(187,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SMCProiect\Biblioteca\Server\Database.cpp(188,89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SMCProiect\Biblioteca\Server\Database.cpp(214,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SMCProiect\Biblioteca\Server\Database.cpp(215,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\SMCProiect\Biblioteca\Server\Database.cpp(216,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'sfml-audio-d.lib'

@@ -1,0 +1,14 @@
+﻿  Author.cpp
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,8): error C2143: syntax error: missing ';' before '*'
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,31): error C2238: unexpected token(s) preceding ';'
+  Book.cpp
+  Library.cpp
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,8): error C2143: syntax error: missing ';' before '*'
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,31): error C2238: unexpected token(s) preceding ';'
+  Main.cpp
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,8): error C2143: syntax error: missing ';' before '*'
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\SMCProiect\Biblioteca\Biblioteca\Book.h(9,31): error C2238: unexpected token(s) preceding ';'
+  Generating Code...

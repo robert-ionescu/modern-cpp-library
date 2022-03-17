@@ -1,0 +1,10 @@
+Sun Jan 16 21:05:07 2022	Informational	Server Started
+Sun Jan 16 18:55:03 2022	Informational	New Client has connected!
+Sun Jan 16 18:55:08 2022	Informational	Client with Address 59065 and port 59065 has received data
+Sun Jan 16 18:55:10 2022	Informational	Client with Address 59065 and port 59065 has received data
+Sun Jan 16 18:55:11 2022	Informational	Client with Address 59065 and port 59065 has received data
+Sun Jan 16 18:51:00 2022	Informational	Client with Address 59039 and port 59039 has received data
+Sun Jan 16 18:51:41 2022	Informational	Client with Address 59039 and port 59039 has received data
+Sun Jan 16 18:52:01 2022	Informational	Client with Address 59039 and port 59039 has received data
+Sun Jan 16 18:25:35 2022	Informational	Client with Address 64090 and port 64090 has received data
+Sun Jan 16 18:24:01 2022	Informational	Client with Address 64083 and port 64083 has received data
